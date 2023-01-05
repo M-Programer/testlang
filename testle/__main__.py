@@ -16,6 +16,7 @@ def __main__(cmd="help", *args):
 				else:
 					break # Go outside the loop
 			print("Creating project...")
+# Functionality not implemented.
 
 if __name__ == "__main__":
 	args = argv[1:]
